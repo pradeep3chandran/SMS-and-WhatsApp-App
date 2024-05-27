@@ -1,1 +1,1 @@
-# SMS-and-WhatsApp-App GitHub
+# SMS and WhatsApp App
